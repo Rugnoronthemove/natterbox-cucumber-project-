@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c625e66-bd37-4f02-b2f6-a5b1a19aa4ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/natterbox/resources/featurefile/hemal.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,6 +104,7 @@
                   <option name="MATCH_CASE" value="true" />
                 </TextFilterSettings>
               </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
