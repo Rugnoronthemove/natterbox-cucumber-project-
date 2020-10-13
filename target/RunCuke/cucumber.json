@@ -1,0 +1,68 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 28877108500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "User should not Log in with invalid credential",
+        "description": "",
+        "id": "log-in-feature;user-should-not-log-in-with-invalid-credential",
+        "after": [
+          {
+            "result": {
+              "duration": 915773300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1634043100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on Home Page",
+            "match": {
+              "location": "MyStepdefs.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 598138200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on Login link",
+            "match": {
+              "location": "MyStepdefs.iClickOnLoginLink()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Log in feature",
+    "description": "",
+    "id": "log-in-feature",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/natterbox/resources/featurefile/login.feature"
+  }
+]
