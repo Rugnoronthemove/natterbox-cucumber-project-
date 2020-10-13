@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1c625e66-bd37-4f02-b2f6-a5b1a19aa4ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/natterbox/cucumber/CukeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/natterbox/cucumber/CukeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/natterbox/resources/featurefile/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/natterbox/resources/featurefile/login.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -81,6 +84,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1602578261387">
       <screen x="0" y="0" width="1366" height="728" />
@@ -107,6 +121,10 @@
     </state>
     <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728/1366.51.1366.728@0.0.1366.728" timestamp="1600263723729" />
     <state width="1323" height="187" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602580932373" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1602583639912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602583639912" />
     <state x="435" y="286" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1602578210238">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
