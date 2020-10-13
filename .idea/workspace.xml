@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c625e66-bd37-4f02-b2f6-a5b1a19aa4ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/natterbox/resources/featurefile/hemal.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/drivers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -121,6 +120,10 @@
     </state>
     <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728/1366.51.1366.728@0.0.1366.728" timestamp="1600259856634" />
     <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602578261387" />
+    <state x="430" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602617456922">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="430" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1602617456922" />
     <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1602583715914">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
