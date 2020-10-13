@@ -14,10 +14,10 @@ import org.junit.runner.RunWith;
         //creates report in jenkins path for the report        //creates Default Cucumber report             //creates Cucumber Extent reports
         plugin = {"json:target/RunCuke/cucumber.json", "pretty", "html:target/cucumber-report/cucumber.html", "com.cucumber.listener.ExtentCucumberFormatter:target/Extent_Reports/report.html"},
         //true displays white font in console  //not mandatory but by default monochromes value is false so need to declare if you need it as true
-        monochrome = true
+        monochrome = true,
         //tags assists with running tag specific feature file if you have multiple feature files
         //or tag specific scenario or scenarios
-//        tags = {"@Sanity"}
+        tags = {"@Sanity"}
 )
 
 public class CukeTest {
